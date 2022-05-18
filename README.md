@@ -1,0 +1,2 @@
+# subrepotest
+Testing sub repositories
